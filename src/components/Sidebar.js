@@ -28,7 +28,7 @@ function Sidebar() {
 <li className="nav-item">
     <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseTwo"
         aria-expanded="true" aria-controls="collapseTwo">
-        <i className="fa-solid fa-wrench"></i>
+      <i className="fa-solid fa-gear"></i>
         <span>Components</span>
     </a>
 </li>
